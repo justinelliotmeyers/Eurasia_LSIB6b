@@ -1,0 +1,5 @@
+This is the detailed version of the detailed Large Scale International Boundaries (LSIB) dataset.
+
+The boundary lines reflect all current US government policies on boundaries, boundary disputes, and sovereignty.
+
+There are no restrictions on use of this public domain data.
